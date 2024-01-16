@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhavpandeyava
-- 👀 I’m interested in Apps, Data Engineering, Data Science, AI/ML and Devops...
+- 👀 I’m interested in Apps, Data Engineering, Data Science, AI/ML, LLMs and DevOps...
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on Cloud Architecture and power of Devops
+- 💞️ I’m looking to collaborate on Cloud Architecture, IAC, Serverless, DevOps, MLOps,
 - 📫 How to reach me ...
 
 <!---
