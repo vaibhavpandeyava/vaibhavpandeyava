@@ -21,8 +21,8 @@
 🏢  Role      →  AI Architect & Experience Manager @ Avanade (Accenture)
 🧠  Focus     →  Agentic AI · Multi-Agent Orchestration · Enterprise AI Adoption
 ☁️  Platform  →  Azure AI Foundry · Azure OpenAI · AKS · Semantic Kernel
-🎓  Impact    →  200+ professionals certified in AI-900 · AI-102 · AZ-900
-🏆  Pursuing  →  Microsoft AI MVP
+🎓  Impact    →  400+ professionals certified in AI-900 · AI-102 · AZ-900
+
 ```
 
 ---
