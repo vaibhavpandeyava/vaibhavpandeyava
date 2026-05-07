@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavpandeyava&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)
 [![Website](https://img.shields.io/badge/🌐_Portfolio-vaibhavpandey.co.uk-0078D4?style=for-the-badge)](https://www.vaibhavpandey.co.uk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhavpandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhavpandeyin)
 [![Personal Lab](https://img.shields.io/badge/🧪_Personal_Lab-pandeyvaibhav-181717?style=for-the-badge&logo=github)](https://github.com/pandeyvaibhav)
 
 </div>
